@@ -1,5 +1,2 @@
 ﻿  SandboxApp.cpp
-SandboxApp.obj : error LNK2019: unresolved external symbol "public: __cdecl Hazel::Application::Application(void)" (??0Application@Hazel@@QEAA@XZ) referenced in function "public: __cdecl Sandbox::Sandbox(void)" (??0Sandbox@@QEAA@XZ)
-SandboxApp.obj : error LNK2019: unresolved external symbol "public: virtual __cdecl Hazel::Application::~Application(void)" (??1Application@Hazel@@UEAA@XZ) referenced in function "public: virtual __cdecl Sandbox::~Sandbox(void)" (??1Sandbox@@UEAA@XZ)
-SandboxApp.obj : error LNK2019: unresolved external symbol "public: void __cdecl Hazel::Application::Run(void)" (?Run@Application@Hazel@@QEAAXXZ) referenced in function main
-C:\dev\TheCherno\Hazel\bin\Debug-x64\Sandbox\Sandbox.exe : fatal error LNK1120: 3 unresolved externals
+  Sandbox.vcxproj -> C:\dev\TheCherno\Hazel\bin\Debug-x64\Sandbox\Sandbox.exe
